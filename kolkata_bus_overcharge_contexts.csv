@@ -1,0 +1,7 @@
+0,1,2,3
+Overcharge Context,Situation,Mentions,Percentage
+Context,Very crowded bus / peak hour,16,14.2%
+Context,New to the route / unsure of fare,40,35.4%
+Context,No fare board visible,34,30.1%
+Context,Conductor insisted on higher fare,28,24.8%
+Context,Short-change/rounding up,9,8.0%
