@@ -2,12 +2,12 @@ Category,Detail,Count,Percentage
 Kolkata Bus Travel Experience Survey Summary,,,
 Date Range,August 14-18 2025,,
 ,,,
-=== RESPONSE OVERVIEW ===,,,
+ RESPONSE OVERVIEW,,,
 Total Survey Responses,,219,100.0%
 Active Bus Travelers,,203,92.7%
 Non-Bus Travelers,,16,7.3%
 ,,,
-=== DEMOGRAPHICS ===,,,
+DEMOGRAPHICS,,,
 Age Distribution,,,
 Age Group,18–24,154,70.3%
 Age Group,25–34,45,20.5%
@@ -20,7 +20,7 @@ Gender,Male,150,68.5%
 Gender,Female,63,28.8%
 Gender,Prefer not to say,2,0.9%
 ,,,
-=== TRAVEL PATTERNS ===,,,
+TRAVEL PATTERNS,,,
 Travel Frequency,,,
 Frequency,Daily,84,41.4%
 Frequency,A few times a week,67,33.0%
@@ -38,7 +38,7 @@ Bus Type,Private/local (non-WBTC),118,58.1%
 Bus Type,Mixed (both),73,36.0%
 Bus Type,Government/WBTC,25,12.3%
 ,,,
-=== FARE ANALYSIS ===,,,
+FARE ANALYSIS,,,
 Fare Statistics,,,
 Average Fare,,₹15.7,
 Median Fare,,₹15.0,
@@ -46,7 +46,7 @@ Minimum Fare,,₹9,
 Maximum Fare,,₹45,
 Standard Deviation,,₹7.1,
 ,,,
-=== SERVICE QUALITY & TRANSPARENCY ===,,,
+SERVICE QUALITY & TRANSPARENCY,,,
 Ticketing,,,
 Ticket Received,Yes,177,87.2%
 Ticket Received,No,34,16.7%
@@ -69,7 +69,7 @@ See Fare Board,It's useless as private buses don't charge according to fare boar
 Average Bus Condition Rating,3.0/5,,Higher is better
 Average Crowdedness Rating,4.0/5,,Higher means more crowded
 ,,,
-=== FARE ISSUES ===,,,
+FARE ISSUES,,,
 Overcharging Experience,,,
 Been Overcharged,No,148,72.9%
 Been Overcharged,"Yes, sometimes",31,15.3%
@@ -87,7 +87,7 @@ Underpayment Experience,,,
 Paid Less Than Due,No,169,83.3%
 Paid Less Than Due,Yes,47,23.2%
 ,,,
-=== FARE PERCEPTIONS ===,,,
+FARE PERCEPTIONS,,,
 Fare Fairness,,,
 Consider Fair,"Yes, fair",119,58.6%
 Consider Fair,Somewhat fair,79,38.9%
