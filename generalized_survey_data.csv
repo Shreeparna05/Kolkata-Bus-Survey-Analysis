@@ -1,0 +1,15 @@
+Metric,Summary
+Total Respondents,170
+Age Distribution,"{""18-24"": 133, ""25-34"": 28, ""35-44"": 6, ""12-17"": 2, ""55+"": 2}"
+Occupation Distribution,"{""Student"": 120, ""Employed"": 42, ""Self-employed"": 4, ""Homemaker"": 2, ""Unemployed"": 1, ""Retired"": 2, ""phd scholar"": 1}"
+Gender Distribution,"{""Male"": 104, ""Female"": 64, ""Prefer not to say"": 2}"
+Travel Frequency,"{""Daily"": 80, ""A few times a week"": 73, ""A few times a month"": 14, ""Less than once a month"": 3}"
+Main Purpose of Travel,"{""Education (school or college travel)"": 113, ""Work / Office"": 42, ""Social or leisure activities (meeting friends, events, outings)"": 14, ""Shopping or running errands"": 6, ""Medical visits (doctor, hospital, pharmacy)"": 2, ""Transportation of goods"": 1}"
+Bus Type Used,"{""Private/local (non-WBTC)"": 105, ""Mixed (both)"": 61, ""Government/WBTC"": 4}"
+Printed Ticket Received,"{""Yes"": 134, ""No"": 27, ""Printed (Not Digital)"": 1, ""Got the traditional tickets"": 1}"
+Overcharged in Past 3 Months,"{""No"": 128, ""Yes, sometimes"": 29, ""Yes, often"": 2, ""Not sure"": 10, ""Rare case"": 1, ""Never "": 1, ""There's no fixed fare structure "": 1}"
+Underpaid in Past 3 Months,"{""No"": 148, ""Yes"": 15}"
+Fare Fairness Perception,"{""Yes, fair"": 92, ""Somewhat fair"": 66, ""Not fair"": 10}"
+Fares Affordable,"{""Yes"": 143, ""Somewhat"": 23, ""No"": 4}"
+Fare Issues Themes,"{""overcharging_issue_mentioned"": true, ""underpayment_issue_mentioned"": true, ""lack_of_change_issue_mentioned"": true, ""no_ticket_issued_issue_mentioned"": true}"
+Suggestions Themes,"{""fare_transparency_suggested"": true, ""bus_maintenance_suggested"": true, ""reduce_overcrowding_suggested"": true, ""digital_payment_suggested"": true, ""increase_bus_frequency_suggested"": true}"
